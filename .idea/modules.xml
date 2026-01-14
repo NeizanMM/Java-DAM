@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/java/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Arrays2/Arrays2.iml" filepath="$PROJECT_DIR$/java/Arrays2/Arrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Arrays3/Arrays3.iml" filepath="$PROJECT_DIR$/java/Arrays3/Arrays3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/java/Bucles/Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Clase/Clase.iml" filepath="$PROJECT_DIR$/java/Clase/Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Condicionals/Condicionals.iml" filepath="$PROJECT_DIR$/java/Condicionals/Condicionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Funciones/Funciones.iml" filepath="$PROJECT_DIR$/java/Funciones/Funciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Funcions 3/Funcions 3.iml" filepath="$PROJECT_DIR$/java/Funcions 3/Funcions 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-DAM.iml" filepath="$PROJECT_DIR$/.idea/Java-DAM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Nadal/Nadal.iml" filepath="$PROJECT_DIR$/java/Nadal/Nadal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Strings/Strings.iml" filepath="$PROJECT_DIR$/java/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Strings2/Strings2.iml" filepath="$PROJECT_DIR$/java/Strings2/Strings2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/Strings3/Strings3.iml" filepath="$PROJECT_DIR$/java/Strings3/Strings3.iml" />
+    </modules>
+  </component>
+</project>
