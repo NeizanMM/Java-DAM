@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="matrius">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/matrius.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
