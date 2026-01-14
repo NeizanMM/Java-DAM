@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays2/Arrays2.iml" filepath="$PROJECT_DIR$/Arrays2/Arrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays3/Arrays3.iml" filepath="$PROJECT_DIR$/Arrays3/Arrays3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Bucles/Bucles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase/Clase.iml" filepath="$PROJECT_DIR$/Clase/Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicionals/Condicionals.iml" filepath="$PROJECT_DIR$/Condicionals/Condicionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funciones/Funciones.iml" filepath="$PROJECT_DIR$/Funciones/Funciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcions 3/Funcions 3.iml" filepath="$PROJECT_DIR$/Funcions 3/Funcions 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nadal/Nadal.iml" filepath="$PROJECT_DIR$/Nadal/Nadal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neizan/Neizan.iml" filepath="$PROJECT_DIR$/Neizan/Neizan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings3/String3.iml" filepath="$PROJECT_DIR$/Strings3/String3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings2/Strings2.iml" filepath="$PROJECT_DIR$/Strings2/Strings2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings3/Strings3.iml" filepath="$PROJECT_DIR$/Strings3/Strings3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrius/matrius.iml" filepath="$PROJECT_DIR$/matrius/matrius.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursivitat/recursivitat.iml" filepath="$PROJECT_DIR$/recursivitat/recursivitat.iml" />
+    </modules>
+  </component>
+</project>
